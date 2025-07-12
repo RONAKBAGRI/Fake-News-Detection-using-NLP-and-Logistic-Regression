@@ -55,8 +55,8 @@ This project uses **Natural Language Processing (NLP)** techniques and a **Logis
 
 ## ✅ Results
 
-- **Training Accuracy:** High, indicating the model has learned patterns well on the training set.
-- **Test Accuracy:** Good, suggesting the model generalizes effectively to new articles.
+- **Training Accuracy:** ~89.0%, indicating the model has learned important patterns from the training data without overfitting too much.
+- **Test Accuracy:** ~80.2%, suggesting the model generalizes well and performs effectively on unseen news articles.
 
 ---
 
